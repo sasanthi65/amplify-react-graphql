@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3628ed345",
+  "policyUUID": "628ed345",
+  "bucketName": "amplifyreactgraphql6d9e1dd8e52f4bacbbe155df430e",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
